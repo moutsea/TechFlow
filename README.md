@@ -6,7 +6,7 @@
 
 打过acm，做过写手，搞过摄影，沉迷过游戏，最近迷上了写文章的90后技术宅
 
-[![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-TechFlow-green)](##关注我吧)
+[![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-TechFlow-green)](#关注我吧)
 [![](https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue)](https://www.zhihu.com/people/su-xiao-bai-3)
 [![](https://img.shields.io/badge/cnblog-%E5%8D%9A%E5%AE%A2%E5%9B%AD-yellowgreen)](https://www.cnblogs.com/techflow/)
 [![](https://img.shields.io/badge/toutiao-%E5%A4%B4%E6%9D%A1-orange)](https://www.toutiao.com/c/user/105333035682/#mid=1614574798727182)
