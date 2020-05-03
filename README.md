@@ -25,6 +25,9 @@
 
 markdown里没办法放pdf，所以转成jpg了。pdf文章里有超链接，可以直接跳转文章。
 
+![](./resource/0001.jpg)
+
+
 ## 目录
 
 ### Python
@@ -170,8 +173,6 @@ markdown里没办法放pdf，所以转成jpg了。pdf文章里有超链接，可
 - [在坡县当码农是一种怎样的体验？](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485088&amp;idx=2&amp;sn=a45f31a9763b30b753309f43b3f24b7f&amp;chksm=f9dafb8bcead729dcdb941f88b256f9446878b9678b267d740c8e5a18ba3739534812bda6f30&token=310695199&lang=zh_CN#rd)
 - [别想歪，我真的有一份时间管理心得……](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485181&amp;idx=2&amp;sn=64492177d2ee0d9a922caf1862020cec&amp;chksm=f9dafbd6cead72c0738812b49b08f45e83033da04b6cfe5d3040b14dbaf66cfbd3198363bcfd&token=310695199&lang=zh_CN#rd)
 - [如何白嫖Coursera和edX中高质量的课程？](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485136&amp;idx=2&amp;sn=923c18e75f8d6f5d76ffe712d0d060f1&amp;chksm=f9dafbfbcead72eddc981966b3673eef5a6a99f3baaa2240be5b3b398ad0c9f6713338a961c3&token=310695199&lang=zh_CN#rd)
-
-![](./resource/0001.jpg)
 
 ## 关注我吧
 
