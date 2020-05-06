@@ -43,6 +43,7 @@ markdown里没办法放pdf，所以转成jpg了。pdf文章里有超链接，可
 - [Python——花式打印对象的若干种方法](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485064&idx=1&sn=598a09429477bd5f8c4c0002f5453cc3&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
 - [Python——__slots__，property和对象命名规范](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485110&idx=1&sn=3006f006e33e325ced917ca1dc071497&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
 - [一文搞定Python装饰器，看完面试不再慌](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485152&idx=1&sn=1386f218b0d5674547599cf00befd93d&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
+- [Python装饰器不会传参？别着急，这篇文章为你解惑](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485206&idx=1&sn=d3b63758dcc540a5add7e523d8ad02ab&chksm=f9dafa3dcead732b0450a0f91dcad68039537c66df883325d95b4b71d28351a4f28cde46254f&token=743257792&lang=zh_CN#rd)
 ### 机器学习
 - [ML基础——搜索引擎与图书管理，百度与李彦宏](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247483705&idx=1&sn=809a0976aa03afbecb10d61cd6891957&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
 - [ML基础——让人脑壳疼的中文分词算法](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247483802&idx=1&sn=6f615f16721bb310d1631c27f42f3bd5&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
@@ -60,6 +61,7 @@ markdown里没办法放pdf，所以转成jpg了。pdf文章里有超链接，可
 - [【硬核】机器学习与数据结构的完美结合——KD-tree](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485018&idx=1&sn=48dab20c34981bb9bab70ce0dda240b8&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
 - [【硬核】使用替罪羊树实现KD-Tree的增删改查](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485070&idx=1&sn=004b960d329ad29a8d75094d367fc027&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
 - [混淆矩阵、AUC、ROC，傻傻分不清楚？来看这篇就对了](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485157&idx=1&sn=b0e28e2ca3adba697c7b4f10d7ef170d&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
+- [啤酒和尿布放在一起卖得更好？来看看这个故事背后的Apriori算法](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485210&idx=1&sn=6daad40d4086976604577c65f6431d06&chksm=f9dafa31cead7327fb15c5973bbe00bb19a0b0e388fc6d87e8131f7d309cc50aa314b6837a4f&token=743257792&lang=zh_CN#rd)
 ### 算法、数据结构
 - [算法浅谈——人人皆知却很多人写不对的二分法](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247483716&idx=1&sn=ee78115e869d69b6b0843a31fe8e467d&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
 - [算法浅谈——二分法的兄弟，三分法](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247483850&idx=1&sn=da01afb601dd18514ea9d7502611391b&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
@@ -78,6 +80,7 @@ markdown里没办法放pdf，所以转成jpg了。pdf文章里有超链接，可
 - [动态规划——用二进制表示集合的状态压缩DP](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485075&idx=1&sn=c424e1ad3b946611d08a230964103fe1&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
 - [动态规划入门——在转移的时候使用二分法加速查找](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485123&idx=1&sn=af28e2b00316c1f271740b2bb6f5c77a&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
 - [四十行代码搞定经典的并查集算法](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485165&idx=1&sn=0c04c7736c266c184a75d0b84d36426f&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
+- [将并查集应用在图论中的最小生成树算法——Kruskal](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485215&idx=1&sn=d0fb88476e4157ede855b2d35731547d&chksm=f9dafa34cead732264b79f8ab0ae2123736ab5d223ccadd88a36a501a1e19cf8bf4dcb8110a4&token=743257792&lang=zh_CN#rd)
 ### 数学基础
 - [线性代数精华1——从行列式开始](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247483690&idx=1&sn=02ed61a0350e9389bbf4c0e2b6d02350&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
 - [线性代数精华2——逆矩阵的推导过程](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247483793&idx=1&sn=21b7db7e3edb43a7f136319a155a8496&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
@@ -100,6 +103,7 @@ markdown里没办法放pdf，所以转成jpg了。pdf文章里有超链接，可
 - [高等数学——简单直观地了解定积分](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485038&idx=1&sn=490bea35caa12b64430af1eee9beade8&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
 - [高等数学——积分中值定理](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485088&idx=1&sn=beae48f33d4d78a392b250be72e11194&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
 - [高等数学——牛顿莱布尼茨公式与定积分的计算](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485130&idx=1&sn=bff67044801dc8e5963da0719fe4a5d6&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
+- [敲黑板，定积分也有换元和分部积分法！](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485181&idx=1&sn=e43835af2043ab86c2429e8d10134ea8&chksm=f9dafbd6cead72c05b4b25f01949cc53d41f99322c6017dbe5d7d7ef65005ae64896e6274683&token=743257792&lang=zh_CN#rd)
 ### 分布式
 - [大数据基石——Hadoop与MapReduce](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247483739&idx=1&sn=2111080662444c8e4f7bf10448e6d734&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
 - [数据库的事务四大原则](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247483865&idx=1&sn=c6703bf1667c44a28e651a8a9bf98d1a&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
