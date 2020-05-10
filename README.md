@@ -104,6 +104,7 @@ markdown里没办法放pdf，所以转成jpg了。pdf文章里有超链接，可
 - [高等数学——积分中值定理](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485088&idx=1&sn=beae48f33d4d78a392b250be72e11194&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
 - [高等数学——牛顿莱布尼茨公式与定积分的计算](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485130&idx=1&sn=bff67044801dc8e5963da0719fe4a5d6&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
 - [敲黑板，定积分也有换元和分部积分法！](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485181&idx=1&sn=e43835af2043ab86c2429e8d10134ea8&chksm=f9dafbd6cead72c05b4b25f01949cc53d41f99322c6017dbe5d7d7ef65005ae64896e6274683&token=743257792&lang=zh_CN#rd)
+- [一个“栗子”讲透泊松分布](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485225&idx=1&sn=55309d155dc1568c9a4a321f15205cdc&chksm=f9dafa02cead7314e2764995a11dfc46547d67fd3e5258e4e5f6a46bf9ab2dc387fc0d395261&token=11955701&lang=zh_CN#rd)
 ### 分布式
 - [大数据基石——Hadoop与MapReduce](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247483739&idx=1&sn=2111080662444c8e4f7bf10448e6d734&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
 - [数据库的事务四大原则](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247483865&idx=1&sn=c6703bf1667c44a28e651a8a9bf98d1a&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
@@ -157,17 +158,20 @@ markdown里没办法放pdf，所以转成jpg了。pdf文章里有超链接，可
 - [LeetCode54 螺旋矩阵，题目不重要，重要的是这个技巧](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485148&amp;idx=1&amp;sn=367f88b8e4863ef2dd57f50a0c931004&amp;chksm=f9dafbf7cead72e16eed47c1aac3cc61894d2f87f2abdcfb3c21eaa036afc9bff1f2206108a4&token=310695199&lang=zh_CN#rd)
 - [LeetCode 56，区间合并问题](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485199&amp;idx=1&amp;sn=d0a4667a8ab364567e2f6be9405cf769&amp;chksm=f9dafa24cead733217b58f0f517aea5eaa7289197eb8206e024e77a40f632657a355f149d19e&token=310695199&lang=zh_CN#rd)
 - [LeetCode 3题合集，砍瓜切菜刷三题不费劲](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485202&amp;idx=2&amp;sn=d5f7bc11766e353cba76f3bed2a4e341&amp;chksm=f9dafa39cead732f642cf6129af8da319deaa6ef5a1fb0d4f7fd31e2d76379cca88665c07a73&token=310695199&lang=zh_CN#rd)
+- [不仅游戏会坑人，来看看LeetCode出题人是怎么埋坑的](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485255&idx=1&sn=4b2f5cfebf61572fde0fdf2eec4f1f1c&chksm=f9dafa6ccead737a9e0e58c7c4a3fe98f660a5a9c97738e839f2f9f53dd03764f5d2a16a87ef&token=11955701&lang=zh_CN#rd)
 
 ### spark
 - [手把手教你在本机安装spark](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247484998&amp;idx=1&amp;sn=337da87cbc12b2246b0b6f6dfc068455&amp;chksm=f9dafb6dcead727b0adb2c9b487b0d0a3e037c85b77d972ad28a6704c21272f09308adaa7e7e&token=310695199&lang=zh_CN#rd)
 - [spark——spark中常说RDD，究竟RDD是什么？](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485052&amp;idx=1&amp;sn=80e9a94efd5db633565c20e66b26c81d&amp;chksm=f9dafb57cead7241df550c4b7eb88a881263fd07f18a6af246399150edd88b3d75992233f98e&token=310695199&lang=zh_CN#rd)
 - [spark——RDD常见的转化和行动操作](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485098&amp;idx=1&amp;sn=f20f521be563d0a6813af9a70541365f&amp;chksm=f9dafb81cead729790cf4ded5ce44ae252dad0546c6cefd2a4f1b5c6049f8a505666f039a377&token=310695199&lang=zh_CN#rd)
 - [spark——Pair rdd的用法，基本上都在这了](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485142&amp;idx=1&amp;sn=c418843a49a38232d8dd2809b7d278f3&amp;chksm=f9dafbfdcead72eb9e511e7e6149b43fefba90686f4f1a07d4253f1f5bfea6226a0a9a979e5f&token=310695199&lang=zh_CN#rd)
+- [总要到最后关头才肯重构代码，强如spark也不例外](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485255&idx=2&sn=893ddd4b553b9cfa2fdb5e1bc33d5736&chksm=f9dafa6ccead737af0852a6d677bb22ed43a9693360f817e7299d38d4ca82309674e4da5542a&token=11955701&lang=zh_CN#rd)
 
 ### golang
-- [GoLang——Hello World，打开新世界的大门](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485059&amp;idx=2&amp;sn=5c6787cb07f89f9cdb56cf44254210a6&amp;chksm=f9dafba8cead72bea51605af839e8c757d198835e36f155076c72ea15234a8f59bf4c3525b80&token=310695199&lang=zh_CN#rd)
+- [Golang——Hello World，打开新世界的大门](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485059&amp;idx=2&amp;sn=5c6787cb07f89f9cdb56cf44254210a6&amp;chksm=f9dafba8cead72bea51605af839e8c757d198835e36f155076c72ea15234a8f59bf4c3525b80&token=310695199&lang=zh_CN#rd)
 - [Golang——为了防止程序员打架操碎了心](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485106&amp;idx=2&amp;sn=3cfa397af2e26c47e5fd849fd766da78&amp;chksm=f9dafb99cead728f154d7d5328dd3336e2b9792ef8586ce105af21b3c5567ad88663bc8a48e5&token=310695199&lang=zh_CN#rd)
 - [Golang——为什么有的语言要把变量类型写在后面？](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485148&amp;idx=2&amp;sn=fba6a336a5c0d552effcc9e0e42020ac&amp;chksm=f9dafbf7cead72e11dd7e8e13f083aebe12c4c4a3960ef5a1eded293ea7aaadbdf82bbf1bda0&token=310695199&lang=zh_CN#rd)
+- [Golang入门教程——基本操作篇](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485229&idx=1&sn=8fe10e65fc204f1e7156aa6f0c9575d3&chksm=f9dafa06cead7310abc4298e4afe2ad288a701c6f88172d97a8380298989020839a7f8e4f4fd&token=11955701&lang=zh_CN#rd)
 
 ### 人生感悟
 
@@ -177,6 +181,7 @@ markdown里没办法放pdf，所以转成jpg了。pdf文章里有超链接，可
 - [在坡县当码农是一种怎样的体验？](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485088&amp;idx=2&amp;sn=a45f31a9763b30b753309f43b3f24b7f&amp;chksm=f9dafb8bcead729dcdb941f88b256f9446878b9678b267d740c8e5a18ba3739534812bda6f30&token=310695199&lang=zh_CN#rd)
 - [别想歪，我真的有一份时间管理心得……](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485181&amp;idx=2&amp;sn=64492177d2ee0d9a922caf1862020cec&amp;chksm=f9dafbd6cead72c0738812b49b08f45e83033da04b6cfe5d3040b14dbaf66cfbd3198363bcfd&token=310695199&lang=zh_CN#rd)
 - [如何白嫖Coursera和edX中高质量的课程？](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485136&amp;idx=2&amp;sn=923c18e75f8d6f5d76ffe712d0d060f1&amp;chksm=f9dafbfbcead72eddc981966b3673eef5a6a99f3baaa2240be5b3b398ad0c9f6713338a961c3&token=310695199&lang=zh_CN#rd)
+- [想做个小程序，但是走了两个月弯路是种怎样的体验？](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485215&idx=2&sn=961718e15b39307d4ba2b294b9ad5439&chksm=f9dafa34cead73226e9d89882e663b02aa11be2200cad89034f04994f6eeb6aad1a0317fc82e&token=11955701&lang=zh_CN#rd)
 
 ## 关注我吧
 
