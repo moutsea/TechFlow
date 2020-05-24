@@ -44,6 +44,8 @@ markdown里没办法放pdf，所以转成jpg了。pdf文章里有超链接，可
 - [Python——__slots__，property和对象命名规范](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485110&idx=1&sn=3006f006e33e325ced917ca1dc071497&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
 - [一文搞定Python装饰器，看完面试不再慌](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485152&idx=1&sn=1386f218b0d5674547599cf00befd93d&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
 - [Python装饰器不会传参？别着急，这篇文章为你解惑](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485206&idx=1&sn=d3b63758dcc540a5add7e523d8ad02ab&chksm=f9dafa3dcead732b0450a0f91dcad68039537c66df883325d95b4b71d28351a4f28cde46254f&token=743257792&lang=zh_CN#rd)
+- [还有这种操作，可以让装饰器为所欲为？](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485285&amp;idx=1&amp;sn=f44531d48ebb699258140727ecb3837d&amp;chksm=f9dafa4ecead73581ff6e4ad4405db53b086eb28ec8f01d684b18243f230fb98613a9d54a741&token=1285462669&lang=zh_CN#rd)
+- [Python一切皆是对象，但这和内存管理有什么关系？](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485382&amp;idx=1&amp;sn=a99100ab541559bfd567755c09942db9&amp;chksm=f9dafaedcead73fb5a2c8d22487edfd16351bfb90d01cd8cbe37da552b09a98dff113d173155&token=1285462669&lang=zh_CN#rd)
 ### 机器学习
 - [ML基础——搜索引擎与图书管理，百度与李彦宏](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247483705&idx=1&sn=809a0976aa03afbecb10d61cd6891957&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
 - [ML基础——让人脑壳疼的中文分词算法](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247483802&idx=1&sn=6f615f16721bb310d1631c27f42f3bd5&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
@@ -62,6 +64,8 @@ markdown里没办法放pdf，所以转成jpg了。pdf文章里有超链接，可
 - [【硬核】使用替罪羊树实现KD-Tree的增删改查](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485070&idx=1&sn=004b960d329ad29a8d75094d367fc027&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
 - [混淆矩阵、AUC、ROC，傻傻分不清楚？来看这篇就对了](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485157&idx=1&sn=b0e28e2ca3adba697c7b4f10d7ef170d&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
 - [啤酒和尿布放在一起卖得更好？来看看这个故事背后的Apriori算法](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485210&idx=1&sn=6daad40d4086976604577c65f6431d06&chksm=f9dafa31cead7327fb15c5973bbe00bb19a0b0e388fc6d87e8131f7d309cc50aa314b6837a4f&token=743257792&lang=zh_CN#rd)
+- [Apriori算法的进化版，挖掘数据超快速的FP-growth](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485297&amp;idx=1&amp;sn=fa7a62badac412b10b310da2a41ca83a&amp;chksm=f9dafa5acead734c0c87f8de006b50e9cd811f4bcb9fee9ef22412c73dc7e39c91e34c2f8f7b&token=1285462669&lang=zh_CN#rd)
+- [如果你还不会决策树，那你一定要进来看看](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485435&amp;idx=1&amp;sn=bc6d52612151fcb1e2c0eaf168799f5e&amp;chksm=f9dafad0cead73c690b4aaf4431d93d5f95773470968da24bb57562990c42bf7021a2a75cd5b&token=1285462669&lang=zh_CN#rd)
 ### 算法、数据结构
 - [算法浅谈——人人皆知却很多人写不对的二分法](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247483716&idx=1&sn=ee78115e869d69b6b0843a31fe8e467d&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
 - [算法浅谈——二分法的兄弟，三分法](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247483850&idx=1&sn=da01afb601dd18514ea9d7502611391b&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
@@ -81,6 +85,8 @@ markdown里没办法放pdf，所以转成jpg了。pdf文章里有超链接，可
 - [动态规划入门——在转移的时候使用二分法加速查找](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485123&idx=1&sn=af28e2b00316c1f271740b2bb6f5c77a&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
 - [四十行代码搞定经典的并查集算法](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485165&idx=1&sn=0c04c7736c266c184a75d0b84d36426f&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
 - [将并查集应用在图论中的最小生成树算法——Kruskal](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485215&idx=1&sn=d0fb88476e4157ede855b2d35731547d&chksm=f9dafa34cead732264b79f8ab0ae2123736ab5d223ccadd88a36a501a1e19cf8bf4dcb8110a4&token=743257792&lang=zh_CN#rd)
+- [最小生成树的本质是什么？Prim算法道破天机](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485306&amp;idx=1&amp;sn=eba3d27a989e2a2cf62f3efc70fc69a8&amp;chksm=f9dafa51cead73477cb975d45456fd41e2fae580acf4d34509ed6a7cf998d869dfee0a8ed02f&token=1285462669&lang=zh_CN#rd)
+- [堆排序和优先队列的核心，堆究竟是怎样的数据结构？](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485450&amp;idx=1&amp;sn=cedbd4579030cb61b0ae9487f4124f75&amp;chksm=f9daf521cead7c37332f2506744f01bec2df7df87cef692700e8d54bc1bd4b97242805d4495c&token=1285462669&lang=zh_CN#rd)
 ### 数学基础
 - [线性代数精华1——从行列式开始](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247483690&idx=1&sn=02ed61a0350e9389bbf4c0e2b6d02350&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
 - [线性代数精华2——逆矩阵的推导过程](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247483793&idx=1&sn=21b7db7e3edb43a7f136319a155a8496&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
@@ -105,6 +111,7 @@ markdown里没办法放pdf，所以转成jpg了。pdf文章里有超链接，可
 - [高等数学——牛顿莱布尼茨公式与定积分的计算](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485130&idx=1&sn=bff67044801dc8e5963da0719fe4a5d6&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
 - [敲黑板，定积分也有换元和分部积分法！](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485181&idx=1&sn=e43835af2043ab86c2429e8d10134ea8&chksm=f9dafbd6cead72c05b4b25f01949cc53d41f99322c6017dbe5d7d7ef65005ae64896e6274683&token=743257792&lang=zh_CN#rd)
 - [一个“栗子”讲透泊松分布](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485225&idx=1&sn=55309d155dc1568c9a4a321f15205cdc&chksm=f9dafa02cead7314e2764995a11dfc46547d67fd3e5258e4e5f6a46bf9ab2dc387fc0d395261&token=11955701&lang=zh_CN#rd)
+- [撸模型时总要分析的相关性究竟是什么？皮尔逊值给你答案](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485320&amp;idx=1&amp;sn=7b65ad7de430e6b56debab6973e48fde&amp;chksm=f9dafaa3cead73b569282c370d1f4eb50f90ed47b444cd1027b955ed25e8641555909bb1be8d&token=1285462669&lang=zh_CN#rd)
 ### 分布式
 - [大数据基石——Hadoop与MapReduce](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247483739&idx=1&sn=2111080662444c8e4f7bf10448e6d734&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
 - [数据库的事务四大原则](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247483865&idx=1&sn=c6703bf1667c44a28e651a8a9bf98d1a&scene=19&token=310695199&lang=zh_CN#wechat_redirect)
@@ -159,6 +166,10 @@ markdown里没办法放pdf，所以转成jpg了。pdf文章里有超链接，可
 - [LeetCode 56，区间合并问题](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485199&amp;idx=1&amp;sn=d0a4667a8ab364567e2f6be9405cf769&amp;chksm=f9dafa24cead733217b58f0f517aea5eaa7289197eb8206e024e77a40f632657a355f149d19e&token=310695199&lang=zh_CN#rd)
 - [LeetCode 3题合集，砍瓜切菜刷三题不费劲](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485202&amp;idx=2&amp;sn=d5f7bc11766e353cba76f3bed2a4e341&amp;chksm=f9dafa39cead732f642cf6129af8da319deaa6ef5a1fb0d4f7fd31e2d76379cca88665c07a73&token=310695199&lang=zh_CN#rd)
 - [不仅游戏会坑人，来看看LeetCode出题人是怎么埋坑的](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485255&idx=1&sn=4b2f5cfebf61572fde0fdf2eec4f1f1c&chksm=f9dafa6ccead737a9e0e58c7c4a3fe98f660a5a9c97738e839f2f9f53dd03764f5d2a16a87ef&token=11955701&lang=zh_CN#rd)
+- [LeetCode 62: 想到动态规划就无敌了？这道题还有更牛的解法](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485276&amp;idx=1&amp;sn=b43b9218140cbf0f9e8e43d0b26227a4&amp;chksm=f9dafa77cead7361906c70861ae9f71b8a219daff14fa86491e838788fb8596acd53f853ad9d&token=1285462669&lang=zh_CN#rd)
+- [LeetCode 63、64 动态规划两题连刷，移动坐标的小技巧](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485365&amp;idx=1&amp;sn=3a9a1c9d2165a72ec711de5b61f8ee4e&amp;chksm=f9dafa9ecead73888330b3e83c5e16d9c03348cc6e06f95d393c5e930841d7d9955403ff79ea&token=1285462669&lang=zh_CN#rd)
+- [这道LeetCode题究竟有什么坑点，让它的反对是点赞的9倍？](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485372&amp;idx=1&amp;sn=78084d126e6d6010ed3481dc2a10c8d6&amp;chksm=f9dafa97cead7381e2ff09ec95506ec5b6404adff0cb3e6d568307a41e3f43a5bda3afa31a01&token=1285462669&lang=zh_CN#rd)
+- [从这道字符串处理的难题，寻找解决复杂问题的套路](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485494&amp;idx=1&amp;sn=ce19e2274c4ee070ce1c28db98aebfd6&amp;chksm=f9daf51dcead7c0ba42ffd2c466b2f55e51387d459fb4b0ee9ea39f3419ee690fbfc1ebd704f&token=1285462669&lang=zh_CN#rd)
 
 ### spark
 - [手把手教你在本机安装spark](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247484998&amp;idx=1&amp;sn=337da87cbc12b2246b0b6f6dfc068455&amp;chksm=f9dafb6dcead727b0adb2c9b487b0d0a3e037c85b77d972ad28a6704c21272f09308adaa7e7e&token=310695199&lang=zh_CN#rd)
@@ -166,12 +177,15 @@ markdown里没办法放pdf，所以转成jpg了。pdf文章里有超链接，可
 - [spark——RDD常见的转化和行动操作](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485098&amp;idx=1&amp;sn=f20f521be563d0a6813af9a70541365f&amp;chksm=f9dafb81cead729790cf4ded5ce44ae252dad0546c6cefd2a4f1b5c6049f8a505666f039a377&token=310695199&lang=zh_CN#rd)
 - [spark——Pair rdd的用法，基本上都在这了](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485142&amp;idx=1&amp;sn=c418843a49a38232d8dd2809b7d278f3&amp;chksm=f9dafbfdcead72eb9e511e7e6149b43fefba90686f4f1a07d4253f1f5bfea6226a0a9a979e5f&token=310695199&lang=zh_CN#rd)
 - [总要到最后关头才肯重构代码，强如spark也不例外](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485255&idx=2&sn=893ddd4b553b9cfa2fdb5e1bc33d5736&chksm=f9dafa6ccead737af0852a6d677bb22ed43a9693360f817e7299d38d4ca82309674e4da5542a&token=11955701&lang=zh_CN#rd)
+- [想学spark但是没有集群也没有数据？没关系，我来教你白嫖一个！](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485470&amp;idx=1&amp;sn=93bc76292739d51a8c5d7eee41c2e940&amp;chksm=f9daf535cead7c23fab52a46fd7462c877523b6d3bc1a3bda853c8d7b0949595acfa3e3d9518&token=1285462669&lang=zh_CN#rd)
 
 ### golang
 - [Golang——Hello World，打开新世界的大门](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485059&amp;idx=2&amp;sn=5c6787cb07f89f9cdb56cf44254210a6&amp;chksm=f9dafba8cead72bea51605af839e8c757d198835e36f155076c72ea15234a8f59bf4c3525b80&token=310695199&lang=zh_CN#rd)
 - [Golang——为了防止程序员打架操碎了心](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485106&amp;idx=2&amp;sn=3cfa397af2e26c47e5fd849fd766da78&amp;chksm=f9dafb99cead728f154d7d5328dd3336e2b9792ef8586ce105af21b3c5567ad88663bc8a48e5&token=310695199&lang=zh_CN#rd)
 - [Golang——为什么有的语言要把变量类型写在后面？](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485148&amp;idx=2&amp;sn=fba6a336a5c0d552effcc9e0e42020ac&amp;chksm=f9dafbf7cead72e11dd7e8e13f083aebe12c4c4a3960ef5a1eded293ea7aaadbdf82bbf1bda0&token=310695199&lang=zh_CN#rd)
 - [Golang入门教程——基本操作篇](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&mid=2247485229&idx=1&sn=8fe10e65fc204f1e7156aa6f0c9575d3&chksm=f9dafa06cead7310abc4298e4afe2ad288a701c6f88172d97a8380298989020839a7f8e4f4fd&token=11955701&lang=zh_CN#rd)
+- [手把手golang基础教程——数组与切片](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485332&amp;idx=1&amp;sn=ad06b0f59f79ce0cfcb4a048a1a48920&amp;chksm=f9dafabfcead73a9f75dd0f7c08c11ead1baed5f208fe6ff1ac57e56ce802c3093e16a3544e2&token=1285462669&lang=zh_CN#rd)
+- [人人都能懂的go语言教程——字符串篇](https://mp.weixin.qq.com/s?__biz=MzUyMTM5OTM2NA==&amp;mid=2247485478&amp;idx=1&amp;sn=09462b1f6992e82b63c0278beae24bba&amp;chksm=f9daf50dcead7c1b9980f6448c796657a657668520e815e3eeb56aaee1c32ecf42ac8f438df7&token=1285462669&lang=zh_CN#rd)
 
 ### 人生感悟
 
